@@ -1,0 +1,476 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Love's name lives, or, A publication of divers petitions presented by Mistris Love to the Parliament, in behalf of her husband with severall letters that interchangeably pass'd between them a little before his death : as also, one letter written to Master Love by Mr. Jaquel, one of the witnesses against him : together with seven severall letters and notes sent to him, from Dr. Drake, Mr. Jenkyn Mr. Case, and Mr. Robinson, his then fellow-sufferers : all published for publick good.</title>
+            <author>Love, Mary, 17th cent.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1663</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 66 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A49238</idno>
+            <idno type="STC">Wing L3142</idno>
+            <idno type="STC">ESTC R24435</idno>
+            <idno type="EEBO-CITATION">08185083</idno>
+            <idno type="OCLC">ocm 08185083</idno>
+            <idno type="VID">41033</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A49238)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 41033)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1234:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Love's name lives, or, A publication of divers petitions presented by Mistris Love to the Parliament, in behalf of her husband with severall letters that interchangeably pass'd between them a little before his death : as also, one letter written to Master Love by Mr. Jaquel, one of the witnesses against him : together with seven severall letters and notes sent to him, from Dr. Drake, Mr. Jenkyn Mr. Case, and Mr. Robinson, his then fellow-sufferers : all published for publick good.</title>
+                  <author>Love, Mary, 17th cent.</author>
+               </titleStmt>
+               <extent>[1], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year 1663.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Love, Christopher, 1618-1651.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:41033:1"/>
+            <p>LOVE'S NAME LIVES: OR, A Publication of divers PETITIONS preſented by Miſtris <hi>LOVE</hi> to the Parliament, in behalf of her HUSBAND.</p>
+            <p>
+               <hi>WITH</hi> Severall LETTERS that interchangeably paſs'd between them a little before his Death.</p>
+            <p>
+               <hi>AS ALSO</hi> One LETTER written to Maſter <hi>LOVE</hi> by Mr. <hi>Jaquel,</hi> one of the Witneſſes againſt him.</p>
+            <p>
+               <hi>Together with</hi> Seven ſeverall LETTERS and Notes ſent to him, from Dr. <hi>Drake,</hi> Mr. <hi>Jenkyn,</hi> Mr. <hi>Caſe,</hi> and Mr. <hi>Robinſon,</hi> his then fellow-Sufferers.</p>
+            <p>All publiſhed for Publick Good.</p>
+            <q>
+               <bibl>
+                  <hi>PSAL. 112.6.</hi>
+               </bibl>
+               <p>The Righteous ſhall be had in everlasting remembrance.</p>
+            </q>
+            <p>
+               <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:41033:2"/>
+            <pb facs="tcp:41033:2"/>
+            <head>To the READER.</head>
+            <opener>
+               <salute>Reader,</salute> take notice,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Here are ſeverall Letters publiſhed, entituled <hi>Love's Letters,</hi> pretended to have paſt be<g ref="char:EOLhyphen"/>tween M. <hi>Love</hi> and his Wife: Which Letters are not Printed by true and exact Copies, having in them both more and leſs than they ſhould have. Now to prevent the like incon<g ref="char:EOLhyphen"/>venience for the future, theſe Letters and Petitions are here publiſhed. The publiſhing of which, will (I hope) give no offence; I am ſure can, give no juſt offence to any: and if any ſhall take offence thereat, certain I am, they'll take that which is not given them; and that they cannot do, unleſs they will be injurious both to themſelves and others. But whether offended, or not offended, I am not, need not be ſollicitous; the rather, for that I can truly ſay, it is at as great a distance from any intention in the leaſt to give offence, as 'tis from my apprehenſion to imagine that the publiſhing of theſe ſhould give juſt offence to any.</p>
+            <p>The Petitions are ſome of thoſe (and thoſe very affectionate ones) which Miſtris <hi>Love</hi> preſented to the Parliament, in the behalf of that bleſſed Saint and Miniſter of Chriſt, her dear Husband Maſter <hi>Love;</hi> and that either for the taking off the ſentence of death, which he then lay under, and ſo wholly to remit it; or if not that, for his baniſhment; and if neither of them, for his reprieve till her delivery (ſhe being then big with child) that ſo ſhe might with greater hope and probability of ſafety, both to her ſelf and unborn babe, under<g ref="char:EOLhyphen"/>go ſo ſad and ſore an affliction.</p>
+            <p>The Letters are, ſome from Miſtris <hi>Love</hi> to her husband, which again occaſioned others from him to her. Now Maſter <hi>Love</hi> having his wife frequently with him in priſon, after his tryall was ordered, had thereby opportunity, as to open his very heart unto her, in reference to his own eſtate and condition, and the apprehen<g ref="char:EOLhyphen"/>ſions which he had, both of it, and of his ſufferings, (which accordingly he did, to her exceeding great ſatiſ<g ref="char:EOLhyphen"/>faction and comfort) ſo alſo to speak that to her, that might be, and that afterwards did prove to be, a great means of her ſupport, under thoſe trying and preſſing afflictions with which ſhe did encounter: and upon that account, did not, and indeed did not need to write unto her ſo fully and largly, as otherwiſe he would have done: And yet theſe brief Notes of his (for ſo they would rather be called than Letters) which were not by him intended to be publiſhed, do clearly and abundantly evidence, what, and how indeared his affections were both to his wife and children: and will (I doubt not) be an anſwer ſufficient to that charge of unnatu<g ref="char:EOLhyphen"/>ralneſs that is in print againſt him: Though, I may ſay, as to thoſe that knew him, or have but the leaſt de<g ref="char:EOLhyphen"/>gree of that charity that is called common, remaining in them; that unchriſtian charge, and moſt malicious ſlander (invented by the father of lyes himſelf, with many more of the ſame Satanical production) of that foul-mouth'd, falſe-mouth'd Animadverter and impudent Detractour, needs no anſwer. And notwithſtand<g ref="char:EOLhyphen"/>ing all that hath been ſaid by that <hi>Doctor of the Chair of Scorners,</hi> (whoſe deſign ſeems to be to fright men more with the rabble of his words, than with the reaſon of them; the former being not more formidable, than the latter feeble,) Maſter <hi>Love,</hi> though dead, yet is not dead; for <hi>HIS GOOD NAME LIVES,</hi> and the remembrance of it to the godly, is, and will never ceaſe to be, even to perpetual generations, as a box of moſt precious and costly oyntment, broken or poured forth, the pleaſant ſavour and ſweet perfume whereof, spreads it ſelf every way, even to the ſcattering and overcoming of all that noiſome and unſavoury breath of reproach and calumny, that by the ſons, yea, and daughters too, of ſlander, with great indeavour would be, but by no means whatſoever can be cast upon it, and to the refreſhing and reviving of every one who is within the reach of its fragrant and perfuming odour.</p>
+            <p>The other Letters, are, one from M. <hi>Jaquel</hi> to M. <hi>Love,</hi> which <hi>Jaquel</hi> was one of the witneſſes againſt him. The reſt, from ſeveral of thoſe Miniſters, who (as to impriſonment) were his fellow-ſufferers; which Letters do ſufficiently demonſtrate, what their thoughts and apprehenſions were of M. <hi>Loves</hi> ſufferings, and do all con<g ref="char:EOLhyphen"/>tain in them very precious and spirituall matter, that may be of conſiderable uſe, as in general to any that ſhall peruſe them, ſo especially to thoſe who are, or hereafter may be in a ſuffering condition.</p>
+            <p>Reader, They are intended for thy benefit, which that thou maiſt reap by them, is the deſire of</p>
+            <closer>
+               <signed>
+                  <hi>The Publiſher<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:41033:3"/>
+            <head>To the Supreme Authority, the PARLIAMENT of the Common-Wealth of ENGLAND. <hi>The humble Petition of</hi> MARY, <hi>the diſtreſſed Wife of</hi> CHRISTOPHER LOVE.</head>
+            <opener>Sheweth,</opener>
+            <p>
+               <seg rend="decorInit">T</seg>Hat whereas the High Court of Juſtice hath lately ſentenced to death her dear and tender Husband, in whoſe life, the life of your Petitioner is bound up; in the exe<g ref="char:EOLhyphen"/>cution of which ſentence, your poor hand-maid ſhould become an unhappy wi<g ref="char:EOLhyphen"/>dow, and the miſerable mother of two young fatherleſs children: And ſhe being ſo near to her appointed hour, having ſorrow upon ſorrow, be forced, through unex<g ref="char:EOLhyphen"/>preſſable grief, to bow down in travell, and give up the ghoſt; and ſo with one blow, there be deſtroyed, both Father, and Mother, and Babe in one day.</p>
+            <p>Yet her ſpirit is ſomewhat revived with the thought that there is hope in <hi>Iſrael</hi> concerning this thing, when ſhe conſiders, that her humble Petition is this day preſented before ſo many profeſſing godlineſs, who have taſted abundantly how gracious the Lord is, and who through mercy are called of God to inherit a bleſſing, and to be a bleſſing to the afflicted in the midſt of the Land.</p>
+            <p>Therefore your diſtreſſed hand-maid, throwing her ſelf in all humility at your feet, beſeecheth you by the womb that bare you, and breſts that gave you ſuck, in the bowels of the Lord Jeſus Chriſt, mercifully to interpoſe, that this fatall blow may be prevented: which act of compaſſion in you, will be to your poor hand-maid as reſurrection from the dead; and not only all the ten<g ref="char:EOLhyphen"/>der-hearted Mothers in <hi>England,</hi> but even the Babe yet unborn ſhall riſe up and call you bleſſed; and this will be to you a glory, and crown of rejoycing in the ſight of the Nation, when the bleſſing of them that are ready to periſh ſhall come upon you. And your poor hand-maid hum<g ref="char:EOLhyphen"/>bly conceives, That your mercy herein will be no danger to the State, for that your poor Petiti<g ref="char:EOLhyphen"/>oners Friends are willing to give all ſufficient ſecurity, that her Husband ſhall live peaceably and quietly for the time to come, and never act any thing to the prejudice of this Common-wealth, and preſent Government.</p>
+            <p>
+               <hi>Now the God of heaven bow your hearts to ſhew mercy:</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>And your Petitioner ſhall pray,</hi> &amp;c. MARY LOVE.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <head>To the Supreme Authority, the PARLIAMENT of the Common-wealth of <hi>ENGLAND. The humble Petition of</hi> Mary, <hi>the Wife of</hi> Chriſtopher Love, <hi>Condemned to dye.</hi>
+            </head>
+            <opener>Sheweth.</opener>
+            <p>THat whereas your diſtreſſed hand-maid hath in all humility, in the exceeding great bitterneſs of her ſpirit, poured out her very ſoul to this Honourable Houſe, for the life of her condemned Huſ<g ref="char:EOLhyphen"/>band: which Petition was mercifully received and read in Parliament (as your Petitioner is informed.) For which high favour ſhe deſireth to bleſs God, and be thankfull to your Honours. And although ſhe hath great cauſe to be very ſenſible of your High diſpleaſure againſt her Husband, for which ſhe is heartily ſorry; Nevertheleſs ſhe hoping that your bowels yearn towards her in this her ſad condi<g ref="char:EOLhyphen"/>tion, adventures once more to make her humble ſupplication, and doth pray,</p>
+            <p>That if your poor Petitioners Husband hath provoked you ſo far, as to render him utterly unca<g ref="char:EOLhyphen"/>pable of your full pardon; yet you would graciouſly be pleaſed to let your hand-maid find ſo
+<pb n="2" facs="tcp:41033:3"/>
+much favour in your eyes, as that you will ſay of your Petitioners dear Husband as <hi>Solomon</hi> ſaid of <hi>Abiathar,</hi> though thou art worthy of death, we will not <hi>at this Time</hi> put thee to death. Oh par<g ref="char:EOLhyphen"/>don your perplexed hand-maid, if ſhe again beſeech you by the wombs that bare you, and the breſts that gave you ſuck, in the bowels of the Lord Jeſus Chriſt, reprieve him for a time, till ſhe may recover her ſtrength, before he depart hence and be ſeen no more; leſt at one terrible ſtroke in his execution, the lives of him, her and the tender babe in her womb be cut off, and two poor innocent Orphans be left behind to begin and end their dayes in miſery. And though he may not be thought worthy to breath in Engliſh aire (which God forbid) yet give him, Oh give him leave to ſigh out his ſorrows under your diſpleaſure in the utmoſt parts of the Earth, whereſoever you ſhall think fit to baniſh him: Which although it be a very great puniſhment in it ſelf; yet your hand-maid and her dying Husband ſhall acknowledg even this to be a great mercy, and ſhall thankfully receive it at your hands.</p>
+            <closer>
+               <signed>
+                  <hi>And ſhall pray,</hi> &amp;c. MARY LOVE.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <head>To the Supreme Authority, the PARLIAMENT of the Common-Wealth of <hi>ENGLAND. The humble Petition of</hi> Mary, <hi>the Wife of</hi> Chriſtopher Love.</head>
+            <opener>Sheweth,</opener>
+            <p>THat your poor Petitioner hath great cauſe to ſay, bleſſed be God, and bleſſed be you, for your mer<g ref="char:EOLhyphen"/>cifull Vote the 15<hi rend="sup">th</hi> of <hi>July,</hi> (a day never to be forgotten) in adding a moneth to the life of her dear Husband, which hath opened a door of hope to her in the midſt of the valley of <hi>Achor,</hi> and made her glad, though ſhe be a woman of a ſorrowfull ſpirit: yet your diſtreſſed hand-maid is overwhel<g ref="char:EOLhyphen"/>med with grief and anguiſh of ſoul, and cannot be comforted, when ſhe remembers the dolefull day, the 15<hi rend="sup">th</hi> of <hi>Auguſt</hi> ſo near approaching, her heart doth almoſt dye within her, and ſhe is as one giving up the ghoſt before ſhe is delivered of the fruit of her womb.</p>
+            <p>Wherefore your greatly diſtreſſed hand-maid doth again pour out her ſoul with renewed and importunate requeſts, beſeeching your Honours to commiſerate her deplorable condition, by putting on bowels of pity and compaſſion towards her dear and condemned Husband, that ſhe may not grapple with the intollerable pains of Travell, and the unſupportable thoughts of her Husbands death in one day. Oh that the life of your hand-maid and her babe might be a ran<g ref="char:EOLhyphen"/>ſome for the life of her condemned Husband; ſhe had rather chuſe out of love to dye for him, than for ſorrow of heart to dye with him. Now the good Lord incline your hearts to give him his life for a prey, whereſoever it ſhall pleaſe your Honours to caſt him,</p>
+            <closer>
+               <signed>
+                  <hi>And your Petitioner ſhall ever pray,</hi> &amp;c. MARY LOVE.</signed>
+            </closer>
+         </div>
+         <div type="petition">
+            <head>To the Supreme Authority, the PARLIAMENT of the Common-wealth of <hi>ENGLAND. The humble Petition of</hi> Mary, <hi>the diſtreſſed Wife of</hi> Chriſtopher Love.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THat your ſad and ſorrowfull Petitioner, in the multitude of her fears wherewith her ſpirit is o<g ref="char:EOLhyphen"/>verwhelmed within her; After ſundry applications and grievous diſappointments, more bit<g ref="char:EOLhyphen"/>ter than death, cannot ceaſe to follow your Honours with ſtrong cries and ſupplications, as the im<g ref="char:EOLhyphen"/>portunate <hi>Cannanitiſh</hi> woman did the Lord Chriſt. And O that now at laſt, you would ſuffer your ſelves to be intreated, and let your bowels yearn within you, that ſo root and branch may not be cut off
+<pb n="3" facs="tcp:41033:4"/>
+in one day. The great God hears the cries of Ravens! O that that God would open your hearts to hear the cries and heart-breaking grones of the Mother with the tender Babes, that cannot keep ſi<g ref="char:EOLhyphen"/>lence whileſt there is any hope.</p>
+            <p>Your deſolate Hand-maid waiteth with all humility and earneſt expectation (at your doors) be<g ref="char:EOLhyphen"/>ſeeching you not to forget to ſhew mercy to your poor Petitioner and her tender Babes; Oh make not your Hand-maid a widow, and her children fatherleſs; but be graciouſly pleaſed to prevent this dreadfull blow, which your Petitioner trembleth to think upon, and earneſtly be<g ref="char:EOLhyphen"/>ſeeches you, to change the ſentence of death into a ſentence of baniſhment; and whileſt you are propagating the Goſpel in New-<hi>England,</hi> let her dying husband (as a Prophet from the dead) be ſent to endeavour the converſion of the poor <hi>Indians,</hi> that ſo many ſouls may bleſs God in your behalf; and ſhe ſhall receive it from your hands as a ſignall favour.</p>
+            <closer>
+               <signed>
+                  <hi>And your Petitioner ſhall pray,</hi> &amp;c. MARY LOVE.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Mr. <hi>Jaquel</hi> his Letter to Mr. <hi>Love.</hi>
+            </head>
+            <opener>
+               <salute>My dear friend, and beloved in the Lord,</salute>
+            </opener>
+            <p>MY bowels are troubled within me, I am pained, I am pained, even at the very heart, The Lord knows I want words to expreſs the thoughts of my heart to you, to you, I ſay, right Chriſti<g ref="char:EOLhyphen"/>an Friend, and true Souldier of Jeſus Chriſt. I was thinking to have been ſilent, being even aſhamed to ſend you a line written by that hand, which is very much ſlackened and taken off from the plough; which I thought, not many weeks agoe, had been very faſt ſetled. Give me leave to breath forth my heart to you in ſuch rude words and language as I can utter; and I pray you receive them, and ſpell out my heart towards you, which at this time is ſo full, that I know not how to empty it, but in tears before the Lord for you night and day. And oh, that the remembrance of the ſeventh and one and twentieth of <hi>June</hi> might often come into my thoughts, to keep my heart humble for my fol<g ref="char:EOLhyphen"/>ly, in taking my own, and carnall friends counſell, and not the counſell of thoſe that are right godly; which (as I now perceive) did help to bring forth that ſad, and never to be forgotten day, and Sen<g ref="char:EOLhyphen"/>tence on the fifth of <hi>July,</hi> againſt my dear friend. Truly, could not I appeal to God, who knoweth all things, what the intention of my heart was, thinking I might rather do you good than hurt, knowing one had gone before me, and fearing he had much wronged you, made me willing to teſtifie what I did, being told and informed, it would do you good and not hurt, being but Miſpriſion at the moſt. I ſay, were it not for the teſtification in mine own conſcience, I were not able to bear up my ſpirit, but ſhould (I fear) even ſink under the burden. But when I conſider to whom I now write, who, I know is full of charity, and doth believe what I ſay, and will forgive what wrong I have done him, and I hope, will pray for me to your God and my God, to your Father and my Father, that he will not lay this to my charge: for you may charge me to be as one of thoſe <hi>Paul</hi> chargeth in 2 <hi>Tim.</hi> 4.16. And deer Sir, If the Lord will be pleaſed to let me ſee your face once more, that I may open my ſelf to you, I hope I ſhall ſtand right in your affections. Some promiſes I have met withall in the word, that do (methinks) add wings to my faith, that God will not ſuffer you to fall by the hands of vio<g ref="char:EOLhyphen"/>lence; as in <hi>Pſal.</hi> 79. <hi>Pſal.</hi> 91. <hi>Pſal.</hi> 94. <hi>Pſal.</hi> 3. <hi>Iſa.</hi> 41.10. <hi>Iſa.</hi> 66.5. and many others, that I know you are better acquainted with than I am, and can beat them out, and lay them by you, as a glaſs of cor<g ref="char:EOLhyphen"/>diall water for fainting times. But dear Sir, let me earneſtly beg of you, that you will uſe what means you can for your own preſervation, and go as far as you can in your Petition to them, in whoſe pow<g ref="char:EOLhyphen"/>er your life is, for many reaſons: As firſt, Becauſe if you ſhall fall, O! how would the enemies re<g ref="char:EOLhyphen"/>joyce? Malignants and others would make ſongs at your death, and ſay, Where is all his Faſtings and Prayers? His God will not help him: Oh Sir, it would be a day of reproach and blaſphemy. And ſecondly, Conſider how would it ſadden the hearts of Gods people, and make them wring their hands, if they ſhould miſs the fruit of their prayers in your deliverance; which (I am confident) have been poured out in an extraordinary way for you? And thirdly, Conſider the ſervice you may yet do in the Church of Chriſt: How many ſouls may God make you inſtrumentall to bring home to Chriſt? And what ſervice may yet this poor bleeding Nation have by your life? And fourthly, I need
+<pb n="4" facs="tcp:41033:4" rendition="simple:additions"/>
+not remember you of your dear and precious Conſort, who, I am confident, is dear in the heart of God, and alſo to you; and her life even bound up in yours, and her condition being as it is. And then I humbly beg, you will conſider my condition; for ſurely, in that day I ſhould hear of your life be<g ref="char:EOLhyphen"/>ing violently taken away, mine would be but little comfort to me, being inſtrumentall in taking yours away, although (the Lords knows) not intentionally, but accidentally. Therefore for theſe reaſons, I humbly beg of you again and again, that you will do what you dare, and go as far as you can for your preſervation; and the Lord will make you inſtrumentall for his glory, if not here, yet in ſome other place; and (methinks) where ever the Lord caſt you, I could willingly make that promiſe, and per<g ref="char:EOLhyphen"/>form it, that <hi>Ruth</hi> made to <hi>Naomi;</hi> and ſo I am confident, could my dear wife, whoſe heart (I know) bleeds for you, and her eyes run down with tears to God for you. Good Sir, in your addreſſes, re<g ref="char:EOLhyphen"/>member me to God, that I may learn to lean upon him more firmly, and rely upon the Rock of Ages, and not upon broken reeds: And (I hope) through the ſtrength of <hi>Chriſt,</hi> and the ſupply of your pray<g ref="char:EOLhyphen"/>ers, I ſhall be better fortified for the time to come, as <hi>Peter</hi> was after his fall.</p>
+            <p>I would fain be remembred to my good friend D<hi rend="sup">r</hi> 
+               <hi>Dr.</hi> I hope I have got better armour of proof than I had before; but I hope there will be no need of ſhewing it about him. For poor <hi>Po.</hi> he hath wronged himſelf more than any man can, for I hear, he hath ſent more Papers of his confeſſion ſince he was there.</p>
+            <p>Good Sir, I have many things more to ſay, but will not preſume to be more burdenſome to you at this time. Will the Lord let me ſee your face once more here? I hope he will. However, it will not be long before we ſhall enjoy one another in that place, where violent hands ſhall not touch us; and then eternity ſhall be little enough to praiſe and magnifie the Lord for his riches of mercy he ſhews to us.</p>
+            <p>The Lord ſtand by you, The Lord preſerve you, and put his everlaſting arms under you, and deli<g ref="char:EOLhyphen"/>ver you: Which ſhall be the earneſt groans and ſighs of him, who is (he hopes) a dear, yet a moſt un<g ref="char:EOLhyphen"/>worthy Friend, not worthy to be look'd upon by you.</p>
+         </div>
+         <div type="letter">
+            <head>Dr. <hi>Drake</hi>'s Letter to Mr. <hi>Love.</hi>
+            </head>
+            <opener>
+               <salute>Dear and precious friend,</salute>
+            </opener>
+            <p>I Cannot but congratulate your liberty, and the ſingular honour God hath laid upon you. The Cap<g ref="char:EOLhyphen"/>tain of our ſalvation is wiſe, and knows whom to call out for his Champion. He hath pleaſed to call you to the forelorn-hope, we are leading up the van; our brethren in the black bill, are like to bring up the body; and for our rear (bleſſed be God) we have armies of prayers and tears; yea, through mer<g ref="char:EOLhyphen"/>cy, we may ſay, <hi>Our righteouſneſs goes before us, and the glory of the Lord ſhall be our reward,</hi> Iſa. 58.8. Well might we fear, had we not a good God, a good Cauſe, and a good Conſcience; but where God juſtifies, who ſhall condemn? Certainly, that God who hath done us ſo much good by a priſon, (bleſſed be his name) can do us much more good by our tryall. He bids us not fear them who at worſt can but kill the body: <hi>and why ſhould we be afraid of man that ſhall dye,</hi> &amp;c. <hi>and forget the Lord our Maker, yea, our Redeemer?</hi> Its too much honour God laies upon us, to ſuffer any thing for his Name and Covenants ſake; that hereby we are ſo indeared in the hearts of his Faithfull people, and have been occaſions to blow up the ſpirit of prayer, that was almoſt exſtinct. Will not God in<g ref="char:EOLhyphen"/>cline his ear when he hath prepared the heart? Did he ever ſet his children a begging, but he had a boon for them? I need not ſtir up your Chriſtian reſolution, but deſire rather to light my candle at your Lamp. Yet, when lately I looked upon <hi>Rev.</hi> 2, &amp; 3. I eſpied no leſs than ſeven rare Cordials to perſons in our condition, <hi>Rev.</hi> 2. <hi>v.</hi> 7, 10, 17, 27. &amp; <hi>c.</hi> 3. <hi>v.</hi> 5, 12, 21. 1. A tree of life. 2. Freedome from hurt by the ſecond death. 3. The hidden Manna and white ſtone. 4. The morning ſtar and weild<g ref="char:EOLhyphen"/>ing the rod of iron. 5. The white garments the Book of life, and owning us before his Father. 6. That we ſhall be pillars in his houſe, having his new name graven upon us. 7. That we ſhall ſit in his throne, <hi>&amp;c.</hi> and all this made over, not <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, but <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>to him that it overcoming.</hi> A Chriſtian is ſure to conquer, if he dare but fight, and no ſouldier but he can glory when he puts on his harneſs. The Lord arm you with ſuch courage and wiſdom, that you may avoid the ſnares, and be above the fury of your Adverſaries. God, Angels, and Men look upon you; and while you are a fighting, Chriſt is weaving your Crown: He by your example, ſo hearten his peo<g ref="char:EOLhyphen"/>ple,
+<pb n="5" facs="tcp:41033:5"/>
+and damp the adverſary, as they may rejoyce (and bleſs God) who favour your righteous dealing, and all iniquity may ſtop her mouth. So prays</p>
+            <closer>
+               <signed>
+                  <hi>Your unworthy Brother and Companion in Tribulation, and in the Kingdome and patience of Jeſus Chriſt.</hi> I prae. ſequar.</signed>
+               <date>June 1.—51.</date>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>I beg your prayers, and preſent my beſt affections to your ſelf and Miſtris</hi> L.</p>
+               <q>
+                  <l>I'd rather dye with grace, than live with blame;</l>
+                  <l>Far better dye with <hi>Love,</hi> than live with ſhame.</l>
+               </q>
+               <p>
+                  <hi>For my moſt honoured friend Mr.</hi> L.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <head>Another of Dr. <hi>Drakes</hi> to Mr. <hi>Love.</hi> 
+               <date>June 17. 1651.</date>
+            </head>
+            <opener>
+               <salute>Dear Friend,</salute>
+            </opener>
+            <p>I Cannot be unmindfull of your perſon and condition, as being not only in the body, but alſo in an eſpeciall manner bound with you, <hi>Heb.</hi> 13.3. And certainly, if habituall and active grace be ſuch motives of Chriſtian love, is not paſſive grace much more? To ſuffer for Chriſt is a grace, as well as to believe in him, <hi>Phil.</hi> 1.29. <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, <hi>&amp;c.</hi> Chriſt and his people are never more lovely than up<g ref="char:EOLhyphen"/>on the Croſs. May we not under God, thank our priſon, that we are ſo gracious this day in the eyes of Gods people, yea, and I am perſwaded, in the eyes of ſome enemies? Muſt not we by ſuffering en<g ref="char:EOLhyphen"/>ter into glory, as our bleſſed Saviour? <hi>Luk.</hi> 24.26. Doth not Chriſt by this means ſet a higher rate up<g ref="char:EOLhyphen"/>on reformation, the Miniſtry, and the Government? How do the Northern people prize the Sun, who ſee it but once in three or ſix moneths? and do not our dunghill-hearts ordinarily value bleſſings, more by their want, than injoyment?</p>
+            <p>In particular, Sir, how are you indeared to God and man in this call, to be the <hi>Proto-Confeſſour</hi> or <hi>Proto-Martyr;</hi> the Lord inable you by grace, to bear the honour, as well as the burthen. I bleſs God for your chearfullneſs and conſtancy, whoſe ſlame contributes much to the keeping of my poor ſpark alive.</p>
+            <p>But my errand is, if it may be, to prevent the latter: and may it ſtand with Gods will, I would not have you yet to be a Martyr. Haply you will ſay, I wiſh you worſe than your Adverſaries do; if ſo, yet I am ſure it is with an honeſter heart, <hi>&amp;c.</hi>—.</p>
+            <p>Sir, I have only one thing to adde, which I apprehend as a providence not to be ſlighted, namely, that your day of tryall is your day of Jubilee, and your day of Pentecoſt, it being preciſely the fiftieth day from your apprehenſion: ordered ſo, I am confident, by eſpeciall providence, not by the intention of the Adverſary: The Lord make it a Jubilee to you, for liberty of ſpirit, and a day of Pentecoſt for effuſion of the Spirit of grace, wiſdom and utterance. I ſhall ſay <hi>Amen</hi> to the <hi>Omen,</hi> and follow it with what poor intereſt I have in heaven; ſtill chooſing rather to dye with <hi>Love,</hi> than to rule with <hi>Luſt,</hi> which is the <hi>Magna charta</hi> of theſe apoſtatizing times. My beſt affections to your ſelf, and deareſt con<g ref="char:EOLhyphen"/>ſort, I beg your prayers, and reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Yours,</hi> &amp;c.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Another of Dr. <hi>Drakes</hi> to Mr. <hi>Love.</hi>
+            </head>
+            <p>MY moſt dear and precious friend in the Lord, in whom I obſerved great reaſon, both of love and honour, from the firſt day that God bleſſed me with the knowledg of you; but never more than at this time, when you are aſcending your triumphant chariot, and mounting into the cloud of wit<g ref="char:EOLhyphen"/>neſſes, <hi>Heb.</hi> 12.1. to guide and encourage us who are left yet behind, to <hi>run with readineſs the race that is ſet before us.</hi> Sweet Sir, I wonder not you are ſo chearfull, being ſo near your journeys end, ſteered by our great Pilot, out of a dangerous and troubleſome Sea, and entring into the harbour; putting off your pilgrims weeds, that you may be cloathed with the white robes, as a free de<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſon of the heaven<g ref="char:EOLhyphen"/>ly <hi>Jeruſalem.</hi> I miſtook in dreaming of an earthly Pentecoſt and Jubilee; that 50<hi rend="sup">th</hi> day I now perceive was an hint and ſummons to call you to the everlaſting Jubilee above, <hi>Heb.</hi> 12. <hi>v.</hi> 22, 24 a <hi>Paraſceve</hi> to the eternal Sabbath, <hi>Heb.</hi> 4. <hi>v.</hi> 9, 10. How much are we beholding to our very enemies (rather to God
+<pb n="6" facs="tcp:41033:5"/>
+for them) who never do us more good, than when they think to do us the ſhrewdeſt turn. I wonder not now at that <hi>Epinicium</hi> of the Apoſtles, <hi>Rom.</hi> 8. <hi>ver.</hi> 28, &amp; 33. <hi>to the end,</hi> &amp; 1 <hi>Cor.</hi> 3. <hi>v.</hi> 21, 22, 23. Death is ſo far from ſeparating, that it brings us immediately to Chriſt, <hi>Phil.</hi> 1.23. and that by a ſtroke ſo honourable, ſo eaſie, ſo comfortable, ſo ſpeedy, that you need but wink and go to Heaven. The Lord is pleaſed to give you a writ of eaſe, and to pay you your penny at the ſixth hour. Bleſſed be God, we ſerve a good Maſter, who puts us only upon honeſt and honourable imployments, makes our task eaſie and ſhort, doth all our works for us and in us; and after all, rewards us freely and rich<g ref="char:EOLhyphen"/>ly, as if we had earned our wages Better be Gods hireling than the worlds darling, <hi>Luk.</hi> 15. <hi>v.</hi> 17, 19. Dear Sir, I bleſs God for your faithfullneſs, patience, courage, wiſdom, whereby you have both tryed and diſcovered the policy and ſtrength of your Antagoniſts, and ſhewed to your poor unworthy fellow-ſufferers that by grace they are conquerable. The Lord is with thee, thou mighty man of va<g ref="char:EOLhyphen"/>lour; go in this thy might, and ſmite the hoſt of <hi>Midian</hi> as one man, <hi>Judg.</hi> 6. <hi>v.</hi> 12, 14, 16. The Lord make you a true <hi>Samſon,</hi> that you may do the Devils kingdom more miſchief at your death, than ever you did in all your life God is now but in his old method, to make the blood of the Martyrs the ſeed of his Church, <hi>Col.</hi> 1.24 <hi>Hiel</hi> deſerved a curſe for building <hi>Jerico, (Joſh.</hi> 6.26.) but God deſerves bleſ<g ref="char:EOLhyphen"/>ſing for building the new <hi>Jeruſalem,</hi> though he lay the foundation thereof in <hi>Abiram</hi> his firſt-born (ſo is Chriſt, our high Father: compare <hi>Gen.</hi> 17.5. with <hi>Iſa</hi> 9.6.) and ſet up the gates thereof in his younger Son <hi>Segub,</hi> (1 <hi>King.</hi> 16 <hi>laſt.</hi>) ſuch are we poor contemptible creatures, exalted and ſtrength<g ref="char:EOLhyphen"/>ned by God, not only to do, but alſo to ſuffer for his Name, (<hi>Act.</hi> 5.41. <hi>Phil.</hi> 1.29.) Cauſe, Church and Covenant. The Lord is making you ſuch a bleſſed <hi>Segub:</hi> making that to be your honour, ſtrength and ſafety, which many judged to be your ſhame, weakneſs and danger. Dear Sir, God ho<g ref="char:EOLhyphen"/>nours you to be the <hi>Elias,</hi> and firſt to aſcend the fiery chariot; May I, without preſumption, be the <hi>Eliſha,</hi> and make two or three bold requeſts unto you: and firſt let me beg your prayers for a double portion of your Spirit. Secondly, let me ſee you (if poſſible) before you aſcend, though it be but through the latteſs, on your Nuptial morning. Thirdly, let fall your mantle, that I may by means of it be inabled to divide <hi>Jordan,</hi> yea, the Red-ſea, if God call me through it, and not ſink like an <hi>Egyptian</hi> in the mighty waters, <hi>Pſal.</hi> 32.6. Fourthly, if there be any remembrance of things below, in heaven (<hi>Luk.</hi> 16. <hi>v.</hi> 24, 25, 28) will you when you are in the bleſſed Heaven, think of your poor friend, and the reſt of your fellow Souldiers left behind, and labouring in the ſtorme, till Chriſt come to them as he doth to you. Surely the Church triumphant doth not forget the Church militant: and prayer is no paradox in heaven, (<hi>Rev.</hi> 6. <hi>v.</hi> 9, 10.) till the body of Chriſt be perfected: If juſtice makes them pray againſt enemies; why ſhould not charity draw out ſupplications for their friends: Surely, there is a communion of Saints between the Church militant and triumphant; we may bleſs God for them, and cannot they pray for us? The Martyrs would not pray to dead Saints, but ſome of them deſired living Saints to pray for them, both on earth and in heaven: and I think therein they were not ſuperſtitious. Sweet Sir, I know to whom I ſpeak, and am aſſured, that Love will not be puffed up with that which would ſoon burſt a bladder of pride: None higher in Gods eyes than thoſe who are loweſt in their own. I ſee your time is ſhort, and therefore though my affection be like <hi>Jordan</hi> at the time of harveſt, I muſt ſet bounds and banks to my words, leſt I divert and trou<g ref="char:EOLhyphen"/>ble you in your paſſage. I doubt not but you remember that you muſt paſs through the <hi>Jordan</hi> to the fiery <hi>Chariot. Jordan</hi> was not more effectual to cleanſe <hi>Naaman</hi>'s Leproſie, than the River of repen<g ref="char:EOLhyphen"/>tant tears is to purge the leproſie of ſin (<hi>Pſal.</hi> 119. <hi>v.</hi> 136.) next after the immenſe ocean of the bloud of Chriſt. It's not <hi>Abanah</hi> and <hi>Parphar</hi> will waſh away the <hi>Leproſie,</hi> but <hi>Jordan;</hi> nor will every tear waſh away ſin, but penitent tears. You have but little time to mourn, Chriſt ſtands by with his tow<g ref="char:EOLhyphen"/>el and handkerchief, <hi>Pſal.</hi> 56.8. <hi>Rev.</hi> 7 <hi>laſt.</hi> &amp; 21.4. <hi>Iſa.</hi> 25.8. Spiritual ſorrow and joy are inſepara<g ref="char:EOLhyphen"/>ble companions in this life; and the Dove-like ſpirit of comfort loves theſe ſtreams, <hi>Cant.</hi> 3.12. <hi>Matth.</hi> 3.16. Every true Chriſtian hath this <hi>Baptiſmus flaminis</hi> joyned with <hi>Baptiſm. flaminis:</hi> And now God honours you with <hi>Baptiſ. Sanguinis</hi> ſuperadded. The cup of tears and cup of comfort may well go together, and happy he who can mingle this drink with weeping, <hi>Pſal.</hi> 102.9. ſuch need not fear to pledge Chriſt in his cup of bloud; and undoubtedly ſhall ſit at Chriſts right hand in his King<g ref="char:EOLhyphen"/>dom, <hi>Matth.</hi> 20. <hi>ver.</hi> 22, 23. though not in the ſenſe of the two ambitious Brethren. If we could weep or repent for any thing in heaven, ſure it would be, becauſe we wept and repented no more nor no better on earth. The Lord enable you and us all to do much work in a little time. If I ſee you no more, I muſt be forced here to take my long leave; yet why ſay I
+<pb n="7" facs="tcp:41033:6" rendition="simple:additions"/>
+ſo? it may prove but a ſhort leave, ſince in likelyhood (as things ſtand) few weeks, yea, dayes, may bring me to a ſight of your bleſſed ſoul in the arms of Chriſt: and ſurely, the communion of Saints in heaven, is cumulative to their eſſential happineſs. The Lord enable me to imitate your graces, and then I ſhall not doubt to inherit your happineſs, which is only God, the higheſt end, and the chiefeſt good. The Lord be nearer to you than your danger, and ſupport you in the moſt needfull hour; and when men have done their worſt, receive your ſoul to his mercy, <hi>Act.</hi> 7. <hi>v.</hi> 55, 56, 59. <hi>Luk</hi> 2.29, 30. &amp; 2 <hi>Tim. v.</hi> 7, 8. So prays</p>
+            <closer>
+               <signed>Your poor unworthy Friend, and Companion in the Kingdom and tribulation of Jeſus Chriſt.</signed>
+               <date>July 12. 1651.</date>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Mr. <hi>Robinſon</hi>'s Letter to Mr. <hi>Love.</hi>
+            </head>
+            <opener>
+               <salute>Dear Friend,</salute>
+            </opener>
+            <p>THe loſs which the Church of God will ſuſtain by your death, is a very great trouble to me, and I doubt not, but a far greater to others, whoſe hearts God hath made more ſenſible to feel his hand. This ſtroke I am confident will be your happineſs, but a great miſery, a ſad puniſhment to many: when God hath a purpoſe to puniſh many at once, he uſeth to take this courſe. The extinguiſhing ſuch a ſtar, (I do not flatter you, God knows) cannot but greatly afflict the whole world. I wiſh heartily God would grant me the favour to ſee you before your wedding day, for I dare not call it a dying day. I hope I ſhall be in your thoughts when you are at the throne of Grace. Good Sir, heap up as ma<g ref="char:EOLhyphen"/>ny prayers as you can for the poor Church of God before you leave us, it ſhall be the beſt legacy you can bequeath; what you ſhall ſow, ſome will live to reap, and you will not be unrewarded. Jeſus Chriſt had his thoughts on the Church even to his dying hour; good Sir, imitate your Maſter, I need not ſay any thing to ſtrengthen you againſt the fear of your approaching day, I doubt not, but you have often overcome that fear through Jeſus Chriſt. <hi>Profectio eſt quam putas mortem:</hi> 'Tis but the taking of a journey, and though the way be deep, yet its but ſhort: God brings you the neareſt way. A ſhor<g ref="char:EOLhyphen"/>ter cut never had any to reſt. I know you have been often upon <hi>Mount Nebo,</hi> where you have ſeen <hi>Canaan,</hi> whither you are going. The Myſticall head cannot be cut off; you have finiſhed your teſtimo<g ref="char:EOLhyphen"/>ny, and fear not to receive your recompence. Chriſt hath transformed this black Meſſenger to you in<g ref="char:EOLhyphen"/>to an Angel of Light. How ſoon others may follow you is known only to God; if we ſtay longer, 'tis but to row in a ſtormy Sea, <hi>Moſes</hi> was very willing to dye, God ſaid, <hi>Go up and dye;</hi> and he <hi>went up and died.</hi> Let not the care of your Relations afflict you, <hi>The earth is the Lords and the fullneſs thereof; Leave your fatherleſs children, God will provide for them; Let your widdow truſt in God.</hi> Your dear yoke-fellow is a partaker of the ſame grace with you; how rich are they that are heirs to the promiſes? You can commend your ſpirit into Gods hands, much more your wife and children: Remember that promiſe, <hi>I will be thy God, and the God of thy ſeed;</hi> Sir, it is a richer portion than the Mines of <hi>India.</hi> You were but a ciſtern to them, the fountain lives, and will live when you are dead: God can provide without you, you cannot without God. Good Sir, Chear up; I hear how full of joy you are, bleſſed be God; all theſe are but little drops to the ocean. I have writ this to fill you more and more. An Ax, and a ſeverer are all one; you ſhall dye without ſickneſs. When you think of the preſent ignominy, look on the future glory; you ſhall be with God, Chriſt, Angels, <hi>the ſouls of juſt men made perfect,</hi> in a ſhort time. What a happineſs is it to have grace in perfection! to ſee God face to face, to be freed from the being of ſin, Temptations of Devils, ſociety of wicked men! You have faught a good fight, you have fi<g ref="char:EOLhyphen"/>niſhed your courſe, you have kept the faith, <hi>&amp;c.</hi> and you are going to receive your Crown, a crown of glory, that fadeth not away. You are now going to that place, where the voice of the oppreſſor ſhall never be heard: You are going to your bed, the beſt and ſafeſt you ever ſlept on. The ſteps of the ſcaffold will be a <hi>Jacobs Ladder,</hi> upon which you ſhall aſcend to your loving Father: The Scaf<g ref="char:EOLhyphen"/>fold will be as <hi>mount Nebo;</hi> The Ax of the Executioner will cut off the head of ſin, and put an end to all miſery. Be ſure, Sir, Not only the Angels of God, but the God of the Angels himſelf will mightily ſtrengthen you. If your death, and this kind of death, were not moſt for the glory of God, and the benefit of the Church, I am confident, God would have ſaved you from this hour.</p>
+            <p>I have writ thus, not becauſe you want advice, but to teſtifie my love, my dear love to you, and to give you remembrance of me and mine, before your departure hence. Good Sir, accept of it as my laſt farewell; farewell, farewell, dear Friend. God, that hath bound up your ſoul in the bundle of life,
+<pb n="8" facs="tcp:41033:6"/>
+be your comfort, joy, hope, peace, confidence in life and death to all eternity: Yea he will be your guide unto death; He will be an Husband and head to your deareſt Wife; He will be a tender Father to your little Babes. This is the confidence, this ſhall be the prayer of</p>
+            <closer>
+               <salute>SIR,</salute>
+               <signed>Your dear Friend.</signed>
+               <date>Aug. 19. 1651.</date>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A brief Note from Mr. <hi>Jenkyn</hi> to Mr. <hi>Love.</hi>
+            </head>
+            <opener>
+               <salute>My dear, dear Heart,</salute>
+            </opener>
+            <p>THou art very near to my ſoul. The Lord Jeſus Chriſt ſmile with the pleaſanteſt face upon thee, that ever he did upon <hi>Sufferer.</hi> —I here ſend thee a Book that I have been much relieved by, in my Impriſonment. What are ten thouſand Deaths, where Chriſt is apprehended by faith! Theſe conſiderations where the leaf is turn'd down, (<hi>pag.</hi> 335.) do ſweetly ſupport faith. —I am afraid almoſt to ſend theſe thoughts, for fear over-many notions may diſturb thee. —I judge theſe more profitable than ſpeculative diſcourſes of death. —The great God, that hangs the Earth upon nothing but his Word, bear up thy ſoul on his promiſes. Oh ſweet, moſt ſure, ſure, ſure (oh remember <hi>ſure!</hi>) promiſes; as ſtable as the very Eſſence of God; for the performances whereof God hath pawn'd his Being: <hi>As I live,</hi> &amp;c.</p>
+            <p>My Heart, I love thee, I kiſs thee, I weep upon thee, I rejoyce for thee, I ſhall ſee thee in glory. The Lord Jeſus ſtrengthen thee. He will.</p>
+         </div>
+         <div type="letter">
+            <head>Mr. <hi>Jenkyn</hi> his Letter to Mr. <hi>Love.</hi>
+            </head>
+            <opener>
+               <salute>My dear Heart,</salute>
+            </opener>
+            <p>BLame me not of this backwardneſs to caſt in this mite. I was hardly perſwaded of the fitneſs thereof: your greater danger is in the plenty of theſe tokens, conſidering your own ſtore. Though your appetite be never ſo good, it's impoſſible you ſhould concoct all the food diſh'd up in Books, Friends Papers, and your own Meditations by and for you. I ſhall deſire to make up my Paper-de<g ref="char:EOLhyphen"/>fects by ſervent prayer: and oh that I could pray ſo this once, as if I were not to do it a ſecond time. My only counſell muſt be, that which I know hath been your only care, and will be your on<g ref="char:EOLhyphen"/>ly comfort; namely, that you ſleep in Jeſus. Thou ſhalt not ſleep (though that were much) in the lap, boſome, and arms of Jeſus; but in this ſleep he looks upon thee as a piece of himſelf, even as a member, a dear limb. In dying thou ſhalt not dye. They who are fallen aſleep in Chriſt, periſh not.<note place="margin">1 <hi>Cor.</hi> 15.18, 20.</note> Chriſt the firſt fruits (a moſt ſweet reſemblance) the happy hanſell of the grave, the firſt born from the dead, the Head of the body, did riſe from the dead as ſuch, and not as a private perſon:<note place="margin">
+                  <hi>Coloſſ.</hi> 1.18.</note> So that our reſurrection is (even now) in its cauſe. The union 'twixt Chriſt and thee (and this union is not only 'twixt Chriſt and thy ſoul, but thy body alſo; and therefore he is the firſt fruits of the dead) cannot be broken off by death. Chriſt ſhould rebell againſt the will of his Father, (which were blaſphemy to think) if he ſhould loſe any thing which his Father hath given him; as he ſhould, were it not to be raiſed up at the laſt day. Chriſt is the very <hi>RES<g ref="char:V">Ʋ</g>RRECTION,</hi> and he that believeth in him, though dead, yet ſhall live. Oh, how hath Chriſt perſumed the grave, and beauti<g ref="char:EOLhyphen"/>fied the griſly face of Death! Death is (now) a priviledge, our beſt friend next to Chriſt, and the truth is, all our meanes and ſorrows in this life, are for want of that which we ſo much fear, death; as the child that cries for want of ſleep, and yet cannot endure to undreſs and go to bed. My dear heart! thou haſt better cloaths to put on in the morning of the Reſurrection: <hi>This mortall ſhall put on immortality.</hi> Thy garment of grace hath had many ſpots, perhaps;<note place="margin">
+                  <hi>Epheſ.</hi> 5.27. <hi>Jude</hi> 24. <hi>vid.</hi>
+               </note> this day thou ſhalt take thy leave of mourning for them, and therefore the Lord help thee to mourn more holily and meltingly than ever; but the garment of glory ſhall not have one. Lord, is there a condition wherein I ſhall never ſin more, wherein I ſhall have as, much grace as I can hold, and wiſh, and will deſire; wherein I ſhall no more waſh the feet of Jeſus Chriſt, and now and then be ſuffered to give them a kiſs, but ſhall lye in his bleſſed boſome, and be claſped in his glorious arms to eternity! This is thy approaching happineſs; and every comfort, by how much the nearer, is the ſweeter. Now is thy ſalvation nearer than when thou firſt believedſt.</p>
+            <p>
+               <pb n="9" facs="tcp:41033:7"/>Oh dear heart! Now for a ſtrong faith! oh wreſtle mightily with the great God, for ſtrength to overcome him; cling about the promiſes, precious promiſes, not only for their fullneſs, but infalli<g ref="char:EOLhyphen"/>bility; adventure thy ſoul upon them. The faithfullneſs of God is a foundation which bears the heavieſt ſtructure, and the greateſt load of ſin and expectation. Jeſus Chriſt calls, beſeeches, commands, threatens, and all to make thee believe. The Lord increaſe thy faith! thou art to go through a very great work, but Chriſt hath laboured, and thou art but to enter into his labours. Death is but a nominall enemy when Chriſt hath diſarmed it; there is more terror in the pomp of it (as <hi>Seneca</hi> ſaid) the Scaffold, the Axe, Spectators, Reports, than in the thing it ſelf. Oh how may a Chriſtian inſult over it! <hi>Oh Death, where is thy Sting!</hi> Chriſt hath ſpoiled principalities and powers, diſarmed, diſrobed them. His death is the death of Death; all its ſtings are left in his ſide. Say not therefore (Dear heart) who ſhall role away the ſtone from the mouth of the ſepulchre? when thou comeſt thither, thou ſhalt find it rol'd away to thy hand. Its difficulties and diſtreſſes are taken away in Chriſt. —To this dear Lord Jeſus I commit thee, who in his due time will wipe away all tears from the eyes, and ſin from the ſouls of his poor ſervants; and out of all our ſtorms, bring us to that haven where we would be. I know not where to break off, and yet not where to leave thee ſo well as there.</p>
+            <closer>
+               <signed>Thine in the bowels of this Saviour.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Maſter <hi>Caſe</hi> to Maſter <hi>Love.</hi>
+            </head>
+            <opener>
+               <salute>Heavenly Saint,</salute>
+            </opener>
+            <p>THou art now awaked out of thy laſt natural reſt, to go to thy eternall reſt: the night is paſt, thou ſhalt never know night any more, but God ſhall give thee light, and thou ſhalt reign for ever and ever, <hi>Rev.</hi> 22.3, 4, 5. Thou art now going where thou ſhalt be in a true ſenſe above ordinances, and above Scripture, 1 <hi>Cor.</hi> 13.12, 13 where God in Chriſt ſhall be thy all in all. Thy priſon ſhall be turn<g ref="char:EOLhyphen"/>ed into a Palace, and thy filthy garments ſhall be taken away, and thou ſhalt be cloathed with long white Robes, and in the moment when thy body and head ſhall be ſevered, thou ſhalt be united to Chriſt thy Head; in him thou ſhalt be crowned, and with him thou ſhalt reign to eternity.</p>
+            <p>It is finiſhed.</p>
+            <p>
+               <hi>Joh.</hi> 17.1, 4, 5, 6, 11, 13, 24.</p>
+            <p>Let me ſee that face once more, which I ſhall ſee no more till the laſt day. Send up one ſigh before thee for thy following Brother and Companion in tribulation, and in the Kingdom and Patience of Jeſus Chriſt.</p>
+         </div>
+         <div type="letter">
+            <head>Another of Maſter <hi>Caſe</hi>'s to Maſter <hi>Love.</hi>
+            </head>
+            <opener>
+               <salute>Dear ſoul,</salute>
+            </opener>
+            <p>THou art now going to heaven: to quicken thy deſires, put it into theſe notions, that are moſt ſu<g ref="char:EOLhyphen"/>table to thy condition.</p>
+            <p>To the weary it is reſt, <hi>Iſa.</hi> 57.2. <hi>Rev.</hi> 14.13.</p>
+            <p>To the baniſhed home, 2 <hi>Cor.</hi> 5.6.</p>
+            <p>To the reproached glory, <hi>Rom,</hi> 5.2.</p>
+            <p>To the moleſted and captived with corruption, it is the glorious liberty of the Sonnes of God, <hi>Rom.</hi> 8.21.</p>
+            <p>To the reſiſter to bloud, it is conqueſt, <hi>Rom.</hi> 8.37.</p>
+            <p>To the vexed with ſin and ſorrow, it is the exſtinction of both.</p>
+            <p>To the hungry ſoul, it is the hidden Manna, <hi>Rev.</hi> 22.17.</p>
+            <p>To the thirſty, rivers of pleaſure, water of life, fountain of life, <hi>Rev.</hi> 22.17. <hi>Pſal.</hi> 36.8, 9.</p>
+            <p>To the grieved ſoul, it is fulneſs of joy, and to the ſorrowfull heart pleaſures for ever more, <hi>Pſal.</hi> 16.8.</p>
+            <p>In a word, To them that have lien upon the dunghill here, and kept their integrity, it is a throne upon which they ſhall ſit and reign with Chriſt for ever and ever, <hi>Rev.</hi> 3.31. &amp; 22.5.</p>
+            <p>Dear heart chear up, a ſharp breakfaſt, but a bleſſed ſupper, the ſupper of the Lamb. The Bride<g ref="char:EOLhyphen"/>groom ſaith, <hi>Loe I come quickly.</hi> Let thy rejoyced ſoul eccho back again, <hi>Even ſo, come Lord Jeſus.</hi>
+            </p>
+            <p>
+               <pb n="10" facs="tcp:41033:7"/>There is but a little time for prayer left, in that remember me, and then everlaſting <hi>halelujahs</hi> will be thy work, and reſt. Live for ever with thy God. <hi>Amen.</hi>
+            </p>
+            <p>I ſhall accompany thee with my prayers, though I cannot with my perſon.</p>
+         </div>
+         <div type="letter">
+            <head>Miſtreſs <hi>Loves</hi> Letter to Maſter <hi>Love.</hi>
+            </head>
+            <opener>
+               <salute>My dear heart,</salute>
+            </opener>
+            <p>BEfore I write a word further, I beſeech thee think not that it is thy wife, but a friend now that writes to thee. I hope thou haſt freely given up thy wife and children to that God, who hath ſaid in the 49. of <hi>Jer.</hi> &amp; <hi>v.</hi> 11. <hi>Leave thy fatherleſs children, I will preſerve them alive, and let thy widdow truſt in me:</hi> thy Maker will be my Husband, and a father to thy children. O that the Lord would keep thee from having one troubled thought for thy relations. I deſire freely to give thee up into thy Fathers hands, and not only look upon it as a crown of glory for thee to dye for Chriſt, but as an honour to me, that I ſhould have an husband to leave for Chriſt. I dare not ſpeak to thee, nor have a thought within my own heart, of my unſpeakable loſs, but wholly keep my eye fixed upon thy unexpreſſable and unconceivable gain. Thou leaveſt but a ſinfull, mortall wiſe, to be everlaſtingly married to the Lord of glory: Thou leaveſt but children, brothers, and ſiſters, to go to the Lord Jeſus thy eldeſt Brother: Thou leaveſt friends on earth, to go to the enjoyment of Saints and Angels, and the ſpirits of juſt men made perfect in glory; Thou doſt but leave earth for heaven, and changeſt a priſon for a Palace. And if naturall affections ſhould begin to ariſe, I hope that ſpirit of grace that is within thee, will quell them; knowing that all things here below, are but dung and droſs in compariſon of thoſe things that are above. I know thou keepeſt thine eye fixed on the hope of glory, which makes thy feet trample on the loſs of earth. My Dear, I know God hath not only prepared glory for thee, and thee for it; but I am perſwaded he will ſweeten the way for thee to come to the enjoyment of it. When thou art putting on thy cloaths that morning, O think, I am now putting on my wedding gar<g ref="char:EOLhyphen"/>ments, to go to be everlaſtingly married to my Redeemer. And when the meſſenger of death comes to thee, let him not ſeem dreadfull to thee; but look on him as a meſſenger that brings thee tidings of eternal life. When thou goeſt up the ſcaffold, think, (as thou ſaidſt to me) it is but thy fiery chariot, to carry thee up to thy Fathers houſe. And when thou layeſt down thy precious head to receive thy Fa<g ref="char:EOLhyphen"/>thers ſtroke, remember what thou ſaidſt to me, Though thy head was ſevered from thy body, yet in a moment, thy ſoul ſhould be united to thy Head the Lord Jeſus in heaven. And though it may ſeem ſomething bitter, that by the hands of men we are parted a little ſooner than otherwiſe we might have been; yet let us conſider, it is the decree and will of our Father; and it will not be long ere we ſhall enjoy one another in heaven again. Let us comfort one another with theſe ſayings. Be comforted my Dear heart, it is but a little ſtroke, and thou ſhalt be there where the weary ſhall be at reſt, and where the wicked ſhall ceaſe from troubling. Remember, though thou maiſt eat thy dinner with bitter herbs, yet thou ſhalt have a ſweet ſupper with Chriſt that night. My Dear, by what I write unto thee, I do not hereby undertake to teach thee; for theſe comforts I have received from the Lord by thee. I will write no more, nor trouble thee any further, but commit thee into the arms of that God, with whom ere long thee and I ſhall be. Farewel, my Dear, I ſhall never ſee thy face more, till we both be<g ref="char:EOLhyphen"/>hold the face of the Lord Jeſus at the great Day.</p>
+            <closer>
+               <signed>MARY LOVE.</signed>
+               <date>July 14. 1651.</date>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Another of Miſtreſs <hi>Loves</hi> to Maſter <hi>Love.</hi>
+            </head>
+            <opener>
+               <salute>My heavenly Dear,</salute>
+            </opener>
+            <p>I Call thee ſo, becauſe God hath put heaven in thee, before he hath taken thee to heaven. Thou now beholdeſt God, Chriſt and Glory as in a glaſs; but to morrow, heaven gates will be opened, and thou ſhalt be in the full enjoyment of all thoſe glories, which eye hath not ſeen, nor ear heard, neither can the heart of man underſtand. God hath now ſwallowed up thy heart in the thoughts of heaven; but ere long thou ſhalt be ſwallowed up in the enjoyment of heaven: And no marvel there ſhould be ſuch quietneſs and calmneſs in thy ſpirit, whileſt thou art ſailing in this tempeſtuous Sea; becauſe thou perceiveſt by the eye of ſaith a haven of reſt, where thou ſhalt be richly laden with all the glo<g ref="char:EOLhyphen"/>ries of heaven. O lift up thy heart with joy, when thou layeſt thy dear head on the block, in the thought
+<pb n="11" facs="tcp:41033:8"/>
+of this, that thou art laying thy head to reſt in thy fathers boſome; which when thou doſt awake ſhall be crowned, not with an earthly fading crown, but with an heavenly eternal crown of glory. And be not diſcouraged, when thou ſhalt ſee a guard of ſouldiers triumphing with their trumpets about thee; but lift up thy head, and thou ſhalt behold God with a guard of his holy Angels, triumphing to receive thee to glory. Be not diſmayed at the ſcofs and reproaches that thou maiſt meet with in thy ſhort way to heaven; for be aſſured, God will not only glorifie thy body and ſoul in heaven, but he will alſo make the memory of thee to be glorious on the earth! O let not one troubled thought for thy wife and babes ariſe within thee; thy God will be our God, and our portion; he will be a husband to thy widdow, and a father to thy children, the grace of thy God will be ſo ſufficient for us. Now, my Dear, I deſire willingly and chearfully to reſign my right in thee to thy Father and my Father, who hath the greateſt intereſt in thee. And confident I am, though men have ſeparated us for a time; yet our God will ere long bring us together again, where we ſhall eternally enjoy one another, never to part more. O let me hear, how God bears up thy heart, and let me taſte of thoſe comforts that ſup<g ref="char:EOLhyphen"/>port thee, that they may be as pillars of marble to bear up my ſinking ſpirit. I can write no more, Farewel, farewel my Dear, till we meet there where we ſhall never bid farewell more; till which time I leave thee in the boſome of a loving tender hearted Father, and ſo I reſt,</p>
+            <closer>
+               <signed>
+                  <hi>Till I ſhall for ever reſt in Heaven,</hi> MARY LOVE.</signed>
+               <date>
+                  <hi>Auguſt</hi> 21. 1651.</date>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Maſter <hi>Love</hi> to his Wife, when he ſhould have firſt ſuffered.</head>
+            <opener>
+               <salute>My deareſt Beloved,</salute>
+            </opener>
+            <p>I Am now going to my long home, yet I muſt write thee a word before I go hence, and ſhall be ſeen no more; It is to beg thee to be comforted in my gain, and not to be troubled in thy loſs; Labour to ſuppreſs thy inward fears, now thou art under outward ſorrows; as thy outward ſuffering<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a<g ref="char:EOLhyphen"/>bound, let thy conſolations in Chriſt abound alſo. I know thou art a woman of a ſorrowfull ſpirit. My time is ſhort, I have but a few words of counſel to give thee, and then I ſhall leave thee to God, who careth for thee and thine. 1. Whil<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s thou art under deſertions, labour rather to ſtrengthen and clear up thy evidences for heaven, than queſtion them. 2. Remember a faith of adherence, or reliance on the Lord Jeſus, bring thee to heaven, though thou want the faith of Evidence or Aſſurance. 3. Labour to find that (and more alſo) in God, which thou haſt loſt in the creature. 4. Spend not thy days in hea<g ref="char:EOLhyphen"/>vineſs for my death; if there were knowledg of things below, or ſorrow in heaven; I ſhould grieve to think my beloved ſhould mourn on earth. 5. Lye under a ſoul-ſearching Miniſtry: I know thou art not a ſpungy hearer, to ſuck in foul water as well as fair. God hath given thee a good underſtanding, to be able to diſcern things that differ; as the mouth taſts meat, thy ear tryeth words. 6. Be conver<g ref="char:EOLhyphen"/>ſant in Chriſtian meetings, and much in the exerciſes of the duties of mortification, in faſting and prayers; yet have reſpect to the weakneſs of thy body and thy preſent condition. 7. Have a care of thy ſelf and babes, God will take care for thee and them. I can write no more; farewell my Dear, farewel, farewel. Theſe are the laſt words written by</p>
+            <closer>
+               <signed>Thy dying, yet comforted Husband, <hi>CHRISTOPHER LOVE.</hi>
+               </signed>
+               <dateline>From the Tower,
+<date>
+                     <hi>July</hi> 15. 1651.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>MY Dear, I beg thee to be ſatisfied: my heart is greatly comforted in God; I can quietly ſubmit to the good pleaſure of his will, and I hope thou doſt ſo alſo; I am delivered by the determi<g ref="char:EOLhyphen"/>nate counſel of God, the will of the Lord be done. Read for thy comfort when I am dead and gone,</p>
+               <p>
+                  <hi>Jer.</hi> 49.11. <hi>and the beginning of the</hi> 12. <hi>Iſa.</hi> 54. <hi>verſ.</hi> 5, 6, 7, 8. <hi>Pſalm</hi> 146. <hi>ver.</hi> 9.2 <hi>Cor.</hi> 4. <hi>ver.</hi> 17, 18. <hi>Heb.</hi> 12. <hi>ver.</hi> 6, 7.</p>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="12" facs="tcp:41033:8"/>
+            <head>Another of Maſter <hi>Loves</hi> to his Wife.</head>
+            <opener>
+               <salute>More dear to me than ever,</salute>
+            </opener>
+            <p>IT adds to my rejoycing, that I have ſo good and gracious a wife to part with for the Lord Jeſus: In thy grief, I have been grieved; but in thy joy, I have been comforted. Surely, nature could never help thee to bear ſo heavy a ſtroke, with ſo much ſilence and ſubmiſſion to the hand of God! O dear<g ref="char:EOLhyphen"/>eſt, every line thou writeſt, gladdeth my heart. I dare not think that there is ſuch a creature as <hi>Mary Love</hi> in the world; for <hi>Kit,</hi> and <hi>Mall,</hi> I can think of them without trouble, leaving them to ſo good a God, and ſo good a Mother. Be comforted concerning thy Husband, who may more honour God in his death than in his life; the will of the Lord be done, he is fully ſatisfied with the hand of God. Though there be but little between him and death, he knows, there is but little between him and heaven; and that raviſheth his heart. The Lord bleſs and requite thee for thy wiſe and good counſel; thou haſt prevented me, the very things I thought to have written to thee, thou haſt written to me: I have had more comfort from thy gracious letter, than from all the counſel I have had from any elſe in the world; well, be aſſured, we ſhall meet in heaven. I reſt, till I reſt in heaven.</p>
+            <closer>
+               <signed>Thy dying, but comforted Friend, <hi>CHRISTOPHER LOVE.</hi>
+               </signed>
+               <dateline>From the Tower, the Lords Day.</dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Another of Maſter <hi>Loves</hi> to his Wife.</head>
+            <opener>
+               <salute>My deareſt delight on Earth,</salute>
+            </opener>
+            <p>I Was faſt aſleep when thy Note came. I bleſs God, I break not an hours ſleep for all my ſufferings; I know they work for me <hi>a more exceeding and eternal weight of glory.</hi> I ſlept this night from ten at night, till ſeven in the morning, and never waked. My Dear, I am ſo comforted in the gracious ſup<g ref="char:EOLhyphen"/>ports God gives thee, that my burdens are the lighter on my ſhoulders becauſe they are not ſo heavy on thine; or if they be heavy, yet that God helps thee to bear them. The Lord keep it in the purpoſe of our hearts for ever, to ſubmit to the good pleaſure of God. I bleſs God I do find my heart in as quiet and compoſed a temper as ever I did in all my life. I am till I dye,</p>
+            <closer>
+               <signed>Thy tender hearted Husband, <hi>CHRISTOPHER LOVE.</hi>
+               </signed>
+               <dateline>From the Tower,
+<date>
+                     <hi>Auguſt</hi> 18. 1651.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Maſter <hi>Loves</hi> laſt Letter to his Wife, on the day he ſuffered.</head>
+            <opener>
+               <salute>My moſt gracious Beloved,</salute>
+            </opener>
+            <p>I Am now going from a Priſon to a Palace; I have finiſhed my work, I am now to receive my wa<g ref="char:EOLhyphen"/>ges; I am going to heaven, where are two of my children, and leaving thee on the earth where are three of my babes; thoſe two above need not my care, but the three below need thine. It comforts me to think two of my children are in the boſome of <hi>Abraham,</hi> and three of them will be in the arms and care of ſo tender and godly a Mother: I know thou art a woman of a ſorrowfull ſpirit, yet be comforted: though thy ſorrow be great for thy Husbands going out of the world; yet thy pains ſhall be the leſs in bringing thy child into the world; thou ſhalt be a joyfull Mother, though thou beeſt a ſad Widdow. God hath many mercies in ſtore for thee; the prayers of a dying Husband for thee will not be loſt. To my ſhame I ſpeak it, I never pray'd ſo much for thee at liberty, as I have done in priſon. I cannot write more, but I have a few practical counſels to leave with thee, <hi>viz.</hi>
+            </p>
+            <p n="1">1. Keep under a ſound, orthodox, and ſoul-ſearching Miniſtry; Oh there are many deceivers gone out into the world, but Chriſts ſheep know his voice, and a ſtranger will they not follow. Attend on that Miniſtry that teaches the way of God in truth, and follow <hi>Solomons</hi> advice, Prov. 19.27. <hi>Ceaſe to hear inſtruction that cauſes to erre from the ways of knowledg.</hi>
+            </p>
+            <p n="2">2. Bring up thy children in the knowledg and admonition of the Lord: the mother ought to be a teacher in the fathers abſence, <hi>Prov.</hi> 19.27. <hi>The words which his mother taught him:</hi> and <hi>Timothy</hi> was inſtructed by his Grandmother <hi>Lois,</hi> and his mother <hi>Eunice,</hi> 2 Tim. 1.5.</p>
+            <p n="3">
+               <pb n="13" facs="tcp:41033:9"/>3. Pray in thy family daily, that thy dwelling may be in the number of the families that do call on God.</p>
+            <p n="4">4. Labour for a meek and quiet ſpirit, which is in the ſight of God of great price, 1 <hi>Pet.</hi> 3.4.</p>
+            <p n="5">5. Pore not on the comforts thou wanteſt, but on the mercies thou haſt.</p>
+            <p n="6">6. Look rather at Gods end in afflicting, than at the meaſure and degree of thy afflictions.</p>
+            <p n="7">7. Labour to clear up thy evidences for heaven, when God takes from thee the comforts of earth, that as thy ſufferings do abound, ſo thy conſolations in Chriſt may abound much more, 2 <hi>Cor.</hi> 1.4.</p>
+            <p n="8">8. Though it is good to maintain a holy jealouſie of the deceitfulneſs of thy heart, yet it is evill for thee to cheriſh fears and doubts, about the truth of thy graces; If ever I had confidence touching the grace of another, I have confidence of grace in thee; I can ſay of thee as <hi>Peter</hi> did of <hi>Silvanus,</hi> I am perſwaded that this is the grace of God wherein thou ſtandeſt, 1 <hi>Pet.</hi> 5.12. Oh my dear ſoul, where<g ref="char:EOLhyphen"/>fore doſt thou doubt, whoſe heart hath been upright, whoſe walkings have been holy, <hi>&amp;c.</hi> I could venture my ſoul in thy ſouls ſtead, ſuch a confidence have I of thee.</p>
+            <p n="9">9. When thou findeſt thy heart ſecure, preſumptuous and proud, then pore upon corruption, more than upon grace; but when thou findeſt thy heart doubting and unbelieving, then look on thy graces, not on thy infirmities.</p>
+            <p n="10">10. Study the covenant of grace and merits of Chriſt, and then be troubled if thou canſt. Thou art intereſted in ſuch a covenant that accepts purpoſes for performances, deſires for deeds, ſincerity for perfection, the righteouſneſs of another, <hi>viz.</hi> that of Jeſus Chriſt, as if it were thine own. Oh my Love! reſt, reſt then in the love of God, in the boſome of Chriſt.</p>
+            <p n="11">11. Swallow up thy will in the will of God; it is a bitter cup we are to drink, but it is the cup our Father hath put into our hands. When <hi>Paul</hi> was to go to ſuffer at <hi>Jeruſalem,</hi> the Chriſtians could ſay, The will of the Lord be done; Oh, ſay thou, when I go to Tower-hill, The will of the Lord be done.</p>
+            <p n="12">12. Rejoyce in my joy; to mourn for me inordinately, argues that either thou envieſt, or ſuſpecteſt my happineſs. The joy of the Lord is my ſtrength, oh let it be thine alſo. Dear wife, farewell; I will call thee wiſe no more, I ſhall ſee thy face no more: yet I am not much troubled, for now I am going to meet the Bridegroome the Lord Jeſus Chriſt, to whom I ſhall be eternally marryed.</p>
+            <closer>
+               <signed>Thy Dying, yet moſt Affectionate Friend till death, <hi>CHRISTOPHER LOVE.</hi>
+               </signed>
+               <dateline>
+                  <hi>From the Tower of London,</hi>
+                  <date>22<hi rend="sup">th</hi> 
+                     <hi>Auguſt,</hi> 1651.</date>
+The day of my glorification.</dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
